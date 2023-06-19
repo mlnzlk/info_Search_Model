@@ -10,5 +10,6 @@ Project summary
 <img width="654" alt="image" src="https://github.com/mlnzlk/info_Search_Model/assets/93921790/61c14eff-18f8-457e-8173-a270ad28946a">
 
 
+
 프로젝트 상세 설명 프로포설
 https://www.canva.com/design/DAFls6TqO4U/L9OcILogmwUBNgsDAsv9Jg/edit?utm_content=DAFls6TqO4U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
